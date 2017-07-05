@@ -5,7 +5,7 @@ body {
 h1,
 h2,
 h3 {
-    text-shadow: 1.5px 1.5px 0 #99ABB9;
+    text-shadow: 2px 2px 0 black;
     font-family: "Montserrat", sans-serif;
 }
 
@@ -23,10 +23,19 @@ header img {
     border-radius: 30px;
 }
 
+.w3-bar-item {
+    background-image: url(../images/dark_embroidery.png);
+}
+
 footer a {
     margin: 8px;
     text-decoration-line: none;
     font-size: 30px;
+}
+
+i {
+    font-size: 80px;
+    padding-right: 30px;
 }
 
 .w3-row-padding img {
