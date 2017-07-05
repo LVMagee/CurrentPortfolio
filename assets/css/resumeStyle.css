@@ -1,0 +1,32 @@
+    html,
+    body,
+    h4,
+    h5,
+    h6 {
+        font-family: "Roboto", sans-serif
+    }
+    
+    h1,
+    h2,
+    h3 {
+        font-family: "Roboto", sans-serif;
+        text-shadow: 1px 1px 0 #444;
+    }
+    
+    footer a {
+        margin: 8px;
+        text-decoration-line: none;
+        font-size: 30px;
+    }
+    
+    i {
+        font-size: 80px;
+    }
+    
+    .texture1 {
+        background-image: url(../images/dark_embroidery.png);
+    }
+    
+    .texture2 {
+        background-image: url(../images/concrete_seamless.png)
+    }
