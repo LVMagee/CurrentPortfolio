@@ -20,11 +20,17 @@ header {
 }
 
 header img {
-    border-radius: 30px;
+    border-radius: 80px;
 }
 
 .w3-bar-item {
     background-image: url(../images/dark_embroidery.png);
+}
+
+#contact img {
+    opacity: 0.8;
+    border-radius: 9px;
+    box-shadow: 10px 10px 5px black;
 }
 
 footer a {
