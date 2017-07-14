@@ -35,13 +35,22 @@ nav img {
     background-image: url(../images/dark_embroidery.png);
 }
 
+#skills i {
+    font-size: 80px;
+    padding-right: 30px;
+}
+
 #portfolio img {
-    opacity: 0.8;
+    opacity: 0.9;
     box-shadow: 8px 8px 3px black;
 }
 
 #resume a {
     padding-right: 20px;
+}
+
+footer {
+    padding-bottom: 20px;
 }
 
 footer a {
@@ -50,10 +59,7 @@ footer a {
     font-size: 30px;
 }
 
-#skills i {
-    font-size: 80px;
-    padding-right: 30px;
-}
+
 
 .w3-row-padding img {
     margin-bottom: 12px
